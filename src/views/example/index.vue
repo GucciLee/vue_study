@@ -1,7 +1,7 @@
 <template>
-    <a-tabs>
-        <h1>教程练习</h1>
-    </a-tabs>
+    <div>
+        练习教程
+    </div>
 </template>
 
 <script>
