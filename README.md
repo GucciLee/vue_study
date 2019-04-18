@@ -27,3 +27,7 @@ yarn run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## 项目功能
+
+本项目为 [Vue 开发实战](http://www.learnku.net/course/books/1) 练习环境
