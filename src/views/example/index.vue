@@ -1,5 +1,6 @@
 <template>
     <div>
+        <!-- <router-view /> -->
         练习教程
     </div>
 </template>

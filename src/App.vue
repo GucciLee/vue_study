@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <!-- VueRouter 全局组件 -->
     <router-view />
   </div>
 </template>
