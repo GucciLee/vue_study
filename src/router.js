@@ -29,5 +29,7 @@ export default new Router({
             //     }
             // ]
         },
+        // 404 页面
+        {path: '*', component: () => import("./views/404.vue"),}
     ]
 });
